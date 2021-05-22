@@ -1,6 +1,6 @@
 # cientifico
 SPA hecha con JS Vanilla, consumo a API Rick and Morty
-DEMO: https://elegant-almeida-aef9f3.netlify.app/
+DEMO: https://iancode-rick.netlify.app/
 
 Instalación 
 
